@@ -1,0 +1,5 @@
+c:\users\ieuch\documents\visual studio 2015\Projects\FileUtilities\FileUtilities-Lib\bin\Debug\FileUtilities-Lib.dll
+c:\users\ieuch\documents\visual studio 2015\Projects\FileUtilities\FileUtilities-Lib\bin\Debug\FileUtilities-Lib.pdb
+c:\users\ieuch\documents\visual studio 2015\Projects\FileUtilities\FileUtilities-Lib\obj\Debug\FileUtilities-Lib.csprojResolveAssemblyReference.cache
+c:\users\ieuch\documents\visual studio 2015\Projects\FileUtilities\FileUtilities-Lib\obj\Debug\FileUtilities-Lib.dll
+c:\users\ieuch\documents\visual studio 2015\Projects\FileUtilities\FileUtilities-Lib\obj\Debug\FileUtilities-Lib.pdb
